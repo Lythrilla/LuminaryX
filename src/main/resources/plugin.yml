@@ -1,0 +1,7 @@
+name: LuminaryX
+version: '1.0-SNAPSHOT'
+main: org.Lythrilla.luminaryX.LuminaryX
+api-version: '1.20'
+authors: [ Lythrilla ]
+description: Minecraft plugin
+website: Lythrilla.cn
