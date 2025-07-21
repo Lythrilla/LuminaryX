@@ -4,7 +4,7 @@
   
 ![LuminaryX Logo](https://free.boltp.com/2025/06/28/685faf4694fb9.webp)
 
-**强大、灵活、现代化的 Bukkit/Paper 插件开发框架**
+**强大、灵活、全方面的 Bukkit/Paper 插件开发框架**
 
 [![版本](https://img.shields.io/badge/版本-1.0.0-orange.svg)](https://github.com/Lythrilla/LuminaryX/releases)
 [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
@@ -13,7 +13,7 @@
 
 ## 📖 简介
 
-LuminaryX 是一个现代化的 Bukkit/Paper 插件开发框架，采用 Kotlin 语言开发。它提供了丰富的 API 和工具，简化插件开发流程，提高开发效率。
+LuminaryX 是一个全方面，全方位的 Bukkit/Paper 插件开发框架。提供丰富的 API。
 
 ## ✨ 核心功能
 
